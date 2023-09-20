@@ -15,5 +15,5 @@ For example, the objects in the following images were detected using [mmdetectio
 - opencv-python
 - tensorflow
 - openmmlab
--package manager
+- package manager
 
